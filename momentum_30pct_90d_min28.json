@@ -1,0 +1,320 @@
+[
+  {
+    "symbol": "ASHOKLEY",
+    "startPrice": 144.58999633789062,
+    "endPrice": 208.85000610351562,
+    "returnPct": 44.442915411282364
+  },
+  {
+    "symbol": "MAHLOG",
+    "startPrice": 315.6000061035156,
+    "endPrice": 414.95001220703125,
+    "returnPct": 31.479722491174222
+  },
+  {
+    "symbol": "HINDZINC",
+    "startPrice": 454,
+    "endPrice": 589.3499755859375,
+    "returnPct": 29.81276995284967
+  },
+  {
+    "symbol": "KARURVYSYA",
+    "startPrice": 243.52000427246094,
+    "endPrice": 322.6000061035156,
+    "returnPct": 32.4737189732374
+  },
+  {
+    "symbol": "MANGLMCEM",
+    "startPrice": 695.9500122070312,
+    "endPrice": 895.5999755859375,
+    "returnPct": 28.687399939223564
+  },
+  {
+    "symbol": "GENCON",
+    "startPrice": 42.40999984741211,
+    "endPrice": 55.849998474121094,
+    "returnPct": 31.69063587612605
+  },
+  {
+    "symbol": "SMCGLOBAL",
+    "startPrice": 57.880001068115234,
+    "endPrice": 81.13999938964844,
+    "returnPct": 40.186589309423155
+  },
+  {
+    "symbol": "SEAMECLTD",
+    "startPrice": 872.1500244140625,
+    "endPrice": 1339.300048828125,
+    "returnPct": 53.563035181694616
+  },
+  {
+    "symbol": "MTARTECH",
+    "startPrice": 2551.60009765625,
+    "endPrice": 3657.60009765625,
+    "returnPct": 43.34535027710285
+  },
+  {
+    "symbol": "EASEMYTRIP",
+    "startPrice": 7.210000038146973,
+    "endPrice": 9.300000190734863,
+    "returnPct": 28.987519300000407
+  },
+  {
+    "symbol": "S&SPOWER",
+    "startPrice": 252.5,
+    "endPrice": 328.79998779296875,
+    "returnPct": 30.217816947710396
+  },
+  {
+    "symbol": "VEDL",
+    "startPrice": 495.1499938964844,
+    "endPrice": 682.4500122070312,
+    "returnPct": 37.82692529926672
+  },
+  {
+    "symbol": "UFBL",
+    "startPrice": 181.4600067138672,
+    "endPrice": 250.32000732421875,
+    "returnPct": 37.947756013771425
+  },
+  {
+    "symbol": "SMLMAH",
+    "startPrice": 2812,
+    "endPrice": 4876.7001953125,
+    "returnPct": 73.4246157650249
+  },
+  {
+    "symbol": "CUBEXTUB",
+    "startPrice": 83.94999694824219,
+    "endPrice": 110.3499984741211,
+    "returnPct": 31.44729301438252
+  },
+  {
+    "symbol": "INDSWFTLAB",
+    "startPrice": 95.72000122070312,
+    "endPrice": 141.88999938964844,
+    "returnPct": 48.234431237093716
+  },
+  {
+    "symbol": "SHARDACROP",
+    "startPrice": 790.7999877929688,
+    "endPrice": 1202.9000244140625,
+    "returnPct": 52.11179096894239
+  },
+  {
+    "symbol": "ROLEXRINGS",
+    "startPrice": 100.44000244140625,
+    "endPrice": 141.10000610351562,
+    "returnPct": 40.48188239126062
+  },
+  {
+    "symbol": "SANSERA",
+    "startPrice": 1627.699951171875,
+    "endPrice": 2285.39990234375,
+    "returnPct": 40.40670706528921
+  },
+  {
+    "symbol": "ABSLAMC",
+    "startPrice": 716.9500122070312,
+    "endPrice": 917.9000244140625,
+    "returnPct": 28.02845509248748
+  },
+  {
+    "symbol": "NATIONALUM",
+    "startPrice": 251.05999755859375,
+    "endPrice": 341.20001220703125,
+    "returnPct": 35.903774207358595
+  },
+  {
+    "symbol": "GVPIL",
+    "startPrice": 336.20001220703125,
+    "endPrice": 484.70001220703125,
+    "returnPct": 44.17013521955318
+  },
+  {
+    "symbol": "AVANTIFEED",
+    "startPrice": 847.2999877929688,
+    "endPrice": 1350.699951171875,
+    "returnPct": 59.412247212484104
+  },
+  {
+    "symbol": "SILVER",
+    "startPrice": 153.1999969482422,
+    "endPrice": 246.3300018310547,
+    "returnPct": 60.789821630529126
+  },
+  {
+    "symbol": "SILVERBEES",
+    "startPrice": 147.0800018310547,
+    "endPrice": 236.6199951171875,
+    "returnPct": 60.8784281829042
+  },
+  {
+    "symbol": "GAEL",
+    "startPrice": 107.86000061035156,
+    "endPrice": 147.11000061035156,
+    "returnPct": 36.38976430362925
+  },
+  {
+    "symbol": "STLTECH",
+    "startPrice": 107.58999633789062,
+    "endPrice": 159.94000244140625,
+    "returnPct": 48.65694570627957
+  },
+  {
+    "symbol": "SILVERTUC",
+    "startPrice": 793.0999755859375,
+    "endPrice": 1392.5,
+    "returnPct": 75.57685573892867
+  },
+  {
+    "symbol": "SAKAR",
+    "startPrice": 361.8999938964844,
+    "endPrice": 519.2000122070312,
+    "returnPct": 43.46505138531171
+  },
+  {
+    "symbol": "NGLFINE",
+    "startPrice": 1321.0999755859375,
+    "endPrice": 2346.39990234375,
+    "returnPct": 77.60956367462417
+  },
+  {
+    "symbol": "UNIONBANK",
+    "startPrice": 150.99000549316406,
+    "endPrice": 193.97999572753906,
+    "returnPct": 28.472076740417982
+  },
+  {
+    "symbol": "SILVERADD",
+    "startPrice": 148.25,
+    "endPrice": 238.52000427246094,
+    "returnPct": 60.89039074027719
+  },
+  {
+    "symbol": "HDFCSILVER",
+    "startPrice": 147.50999450683594,
+    "endPrice": 236.5800018310547,
+    "returnPct": 60.3823541733581
+  },
+  {
+    "symbol": "DBOL",
+    "startPrice": 71.13999938964844,
+    "endPrice": 97.62000274658203,
+    "returnPct": 37.222383446894845
+  },
+  {
+    "symbol": "OMAXAUTO",
+    "startPrice": 87.58999633789062,
+    "endPrice": 112.26000213623047,
+    "returnPct": 28.165323472753506
+  },
+  {
+    "symbol": "TMB",
+    "startPrice": 497.8500061035156,
+    "endPrice": 689.5499877929688,
+    "returnPct": 38.50556981806963
+  },
+  {
+    "symbol": "INFOBEAN",
+    "startPrice": 531.4500122070312,
+    "endPrice": 886.25,
+    "returnPct": 66.76074506415726
+  },
+  {
+    "symbol": "SANGINITA",
+    "startPrice": 10.100000381469727,
+    "endPrice": 14.640000343322754,
+    "returnPct": 44.9504929740644
+  },
+  {
+    "symbol": "AXISILVER",
+    "startPrice": 152.83999633789062,
+    "endPrice": 245.16000366210938,
+    "returnPct": 60.403042093852534
+  },
+  {
+    "symbol": "FORCEMOT",
+    "startPrice": 16731,
+    "endPrice": 24475,
+    "returnPct": 46.2853385930309
+  },
+  {
+    "symbol": "NARMADA",
+    "startPrice": 23.510000228881836,
+    "endPrice": 32.63999938964844,
+    "returnPct": 38.83453454649683
+  },
+  {
+    "symbol": "CONSOFINVT",
+    "startPrice": 168.8699951171875,
+    "endPrice": 240,
+    "returnPct": 42.12116239681997
+  },
+  {
+    "symbol": "VIVIMEDLAB",
+    "startPrice": 4.949999809265137,
+    "endPrice": 8.029999732971191,
+    "returnPct": 62.22222307849549
+  },
+  {
+    "symbol": "SILVER1",
+    "startPrice": 149.24000549316406,
+    "endPrice": 240.0399932861328,
+    "returnPct": 60.84158700806792
+  },
+  {
+    "symbol": "PFOCUS",
+    "startPrice": 166.19000244140625,
+    "endPrice": 259.2200012207031,
+    "returnPct": 55.97809580157901
+  },
+  {
+    "symbol": "ANTELOPUS",
+    "startPrice": 417.75,
+    "endPrice": 612.2999877929688,
+    "returnPct": 46.57091269729952
+  },
+  {
+    "symbol": "MMFL",
+    "startPrice": 312,
+    "endPrice": 476.1499938964844,
+    "returnPct": 52.61217753092448
+  },
+  {
+    "symbol": "SMSPHARMA",
+    "startPrice": 271.54998779296875,
+    "endPrice": 372.45001220703125,
+    "returnPct": 37.15707197563539
+  },
+  {
+    "symbol": "LEXUS",
+    "startPrice": 27.75,
+    "endPrice": 37.439998626708984,
+    "returnPct": 34.91891397012247
+  },
+  {
+    "symbol": "DIVGIITTS",
+    "startPrice": 598.9500122070312,
+    "endPrice": 781.5,
+    "returnPct": 30.478334430665154
+  },
+  {
+    "symbol": "SILVERBETA",
+    "startPrice": 148.91000366210938,
+    "endPrice": 238.85000610351562,
+    "returnPct": 60.39889881776409
+  },
+  {
+    "symbol": "RAIN",
+    "startPrice": 105.95999908447266,
+    "endPrice": 145.52999877929688,
+    "returnPct": 37.34428089535798
+  },
+  {
+    "symbol": "SILVERAG",
+    "startPrice": 150.10000610351562,
+    "endPrice": 240.64999389648438,
+    "returnPct": 60.32643844832455
+  }
+]
